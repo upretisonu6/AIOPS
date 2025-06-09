@@ -29,12 +29,13 @@ AIOps enables **proactive incident detection and monitoring**.
 
 ```mermaid
 graph TD
-    A[Java Application] --> B[Metrics & Logs]
-    B --> C[ML Model (Anomaly Detection)]
+    A[Java Application] --> B[Metrics and Logs]
+    B --> C[ML Model - Anomaly Detection]
     C --> D[Alert Triggered]
-    D --> E[GenAI Module (RCA)]
-    E --> F[Root Cause Summary / Suggestions]
+    D --> E[GenAI Module - RCA]
+    E --> F[Root Cause Summary or Suggestions]
     F --> G[Ops Team or Automation]
+
 ```
 
 
