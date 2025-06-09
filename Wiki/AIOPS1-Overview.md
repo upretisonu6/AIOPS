@@ -1,4 +1,4 @@
-## 🧠 What is AIOps
+## 1- 🧠 What is AIOps
 
 **AIOps (AI in Ops)** helps reduce manual tasks and efforts, such as:
 - SSL monitoring
@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 AIOps Example
+## 2-  🧠 AIOps Example
 
 AIOps enables **proactive incident detection and monitoring**.
 
@@ -15,7 +15,7 @@ AIOps enables **proactive incident detection and monitoring**.
 
 ---
 
-## 🧠 Real-World Example
+## 3- 🧠 Real-World Example
 
 **Without AIOps:**
 > A user complains the app is slow → you check metrics → find high CPU → restart pod.
@@ -25,7 +25,7 @@ AIOps enables **proactive incident detection and monitoring**.
 
 ---
 
-## 🧠 How it Works: ML/GenAI
+## 4- 🧠 How it Works: ML/GenAI
 
 ```mermaid
 graph TD
@@ -43,7 +43,7 @@ graph TD
 ![Alt Text](../images/GenAI1.png)
 
 
-## 🧠 Software Requirements
+## 5- 🧠 Software Requirements
 
 | Tool                  | Role in AIOps                                     |
 |-----------------------|---------------------------------------------------|
