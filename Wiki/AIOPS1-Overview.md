@@ -36,10 +36,12 @@ graph TD
     E --> F[Root Cause Summary / Suggestions]
     F --> G[Ops Team or Automation]
 ```
+
+
+---
 ![Alt Text](../images/GenAI.png)
 ![Alt Text](../images/GenAI1.png)
 
----
 
 ## 🧠 Software Requirements
 
